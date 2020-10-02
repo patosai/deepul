@@ -1,4 +1,4 @@
-from utils import *
+from deepul.utils import *
 
 
 # Question 1
